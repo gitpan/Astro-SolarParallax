@@ -4,3 +4,7 @@ Revision history for Perl extension Astro::SolarParallax.
 	- original version; created by h2xs 1.23 with options
 		-AX -n Astro::SolarParallax
 
+0.02 2004-05-26
+	- Seems like CPAN refuses my developer releases, as a first
+	release, even when it is contained in a non-developer
+	release. So, I just changed some version numbers. 
