@@ -9,6 +9,10 @@ Revision history for Perl extension Astro::SolarParallax.
 	release, even when it is contained in a non-developer
 	release. So, I just changed some version numbers. 
 
-0.02 
+0.03  
 	- I don't think it really requires any new version of Perl, so
 	I removed the requirement from MakeFile.PL.
+
+0.04  2004-08-21 01:21
+	- Added SIGNATURE and some related small changes
+
