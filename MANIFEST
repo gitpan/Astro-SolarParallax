@@ -1,0 +1,9 @@
+Changes
+lib/Astro/SolarParallax.pm
+lib/Astro/SolarParallax/Observer.pm
+lib/Geo/Coordinates.pm
+Makefile.PL
+MANIFEST
+README
+t/Astro-SolarParallax.t
+META.yml                                 Module meta-data (added by MakeMaker)

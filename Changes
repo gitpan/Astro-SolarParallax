@@ -1,0 +1,6 @@
+Revision history for Perl extension Astro::SolarParallax.
+
+0.01  Fri Apr 16 21:13:29 2004
+	- original version; created by h2xs 1.23 with options
+		-AX -n Astro::SolarParallax
+
